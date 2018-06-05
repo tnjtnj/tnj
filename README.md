@@ -19,9 +19,9 @@ Exchange and Coin: www.troca.ninja
 
 #cd source_code
 
-#wget https://github.com/trocaninja/trocaninja
+#wget https://github.com/trocaninja/trocaninja/releases/download/v1.0.0.0/trocaninja-source.tar.gz
 
-#tar -xzvf examplecoin-source.tar.gz
+#tar -xzvf trocaninja-source.tar.gz
 
 #cd src
 
