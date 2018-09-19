@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TrocaNinja</source>
-        <translation>Om TrocaNinja</translation>
+        <source>About TNJ</source>
+        <translation>Om TNJ</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TrocaNinja&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TrocaNinja&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;TNJ&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TNJ&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TrocaNinja developers</source>
+Copyright © 2014 The TNJ developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TrocaNinja developers</translation>
+Copyright © 2014 The TNJ developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TrocaNinja addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine TrocaNinja adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your TNJ addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine TNJ adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TrocaNinja address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en TrocaNinja adresse</translation>
+        <source>Sign a message to prove you own a TNJ address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en TNJ adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TrocaNinja address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret TrocaNinja adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified TNJ address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret TNJ adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>TrocaNinja will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>TrocaNinja lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>TNJ will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>TNJ lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TrocaNinja</source>
-        <translation>Vis oplysninger om TrocaNinja</translation>
+        <source>Show information about TNJ</source>
+        <translation>Vis oplysninger om TNJ</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TrocaNinja address</source>
-        <translation>Send mønter til en TrocaNinja adresse</translation>
+        <source>Send coins to a TNJ address</source>
+        <translation>Send mønter til en TNJ adresse</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TrocaNinja</source>
-        <translation>Ændre indstillingsmuligheder for TrocaNinja</translation>
+        <source>Modify configuration options for TNJ</source>
+        <translation>Ændre indstillingsmuligheder for TNJ</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>TrocaNinja</source>
-        <translation>TrocaNinja</translation>
+        <source>TNJ</source>
+        <translation>TNJ</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TrocaNinja</source>
-        <translation>&amp;Om TrocaNinja</translation>
+        <source>&amp;About TNJ</source>
+        <translation>&amp;Om TNJ</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TrocaNinja client</source>
-        <translation>TrocaNinja klient</translation>
+        <source>TNJ client</source>
+        <translation>TNJ klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TrocaNinja network</source>
-        <translation><numerusform>%n aktiv forbindelse til TrocaNinja netværk</numerusform><numerusform>%n aktive forbindelser til TrocaNinja netværk</numerusform></translation>
+        <source>%n active connection(s) to TNJ network</source>
+        <translation><numerusform>%n aktiv forbindelse til TNJ netværk</numerusform><numerusform>%n aktive forbindelser til TNJ netværk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TrocaNinja address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig TrocaNinja adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TNJ address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig TNJ adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,7 +719,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TrocaNinja can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. TNJ can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1053,8 +1053,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TrocaNinja address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig TrocaNinja adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TNJ address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig TNJ adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TrocaNinja-Qt</source>
-        <translation>TrocaNinja-Qt</translation>
+        <source>TNJ-Qt</source>
+        <translation>TNJ-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TrocaNinja after logging in to the system.</source>
-        <translation>Automatisk start TrocaNinja efter at have logget ind på systemet.</translation>
+        <source>Automatically start TNJ after logging in to the system.</source>
+        <translation>Automatisk start TNJ efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TrocaNinja on system login</source>
-        <translation>&amp;Start TrocaNinja ved systems login</translation>
+        <source>&amp;Start TNJ on system login</source>
+        <translation>&amp;Start TNJ ved systems login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TrocaNinja client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne TrocaNinja klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the TNJ client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne TNJ klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TrocaNinja network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til TrocaNinja netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the TNJ network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til TNJ netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TrocaNinja.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af TrocaNinja tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TNJ.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af TNJ tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TrocaNinja addresses in the transaction list or not.</source>
-        <translation>Få vist TrocaNinja adresser på listen over transaktioner eller ej.</translation>
+        <source>Whether to show TNJ addresses in the transaction list or not.</source>
+        <translation>Få vist TNJ adresser på listen over transaktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TrocaNinja.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af TrocaNinja.</translation>
+        <source>This setting will take effect after restarting TNJ.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af TNJ.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TrocaNinja network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med TrocaNinja netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TNJ network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med TNJ netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TrocaNinja-Qt help message to get a list with possible TrocaNinja command-line options.</source>
-        <translation>Vis TrocaNinja-Qt hjælpe besked for at få en liste med mulige TrocaNinja kommandolinjeparametre.</translation>
+        <source>Show the TNJ-Qt help message to get a list with possible TNJ command-line options.</source>
+        <translation>Vis TNJ-Qt hjælpe besked for at få en liste med mulige TNJ kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>TrocaNinja - Debug window</source>
-        <translation>TrocaNinja - Debug vindue</translation>
+        <source>TNJ - Debug window</source>
+        <translation>TNJ - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TrocaNinja Core</source>
-        <translation>TrocaNinja Kerne</translation>
+        <source>TNJ Core</source>
+        <translation>TNJ Kerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TrocaNinja debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn TrocaNinja debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the TNJ debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn TNJ debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TrocaNinja RPC console.</source>
-        <translation>Velkommen til TrocaNinja RPC-konsol.</translation>
+        <source>Welcome to the TNJ RPC console.</source>
+        <translation>Velkommen til TNJ RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TrocaNinja address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en TrocaNinja-adresse (f.eks J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TNJ address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en TNJ-adresse (f.eks J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TrocaNinja address</source>
-        <translation>ADVARSEL: Ugyldig TrocaNinja adresse</translation>
+        <source>WARNING: Invalid TNJ address</source>
+        <translation>ADVARSEL: Ugyldig TNJ adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TrocaNinja address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en TrocaNinja-adresse (f.eks J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TNJ address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en TNJ-adresse (f.eks J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TrocaNinja address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne TrocaNinja adresse</translation>
+        <source>Sign the message to prove you own this TNJ address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne TNJ adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TrocaNinja address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne TrocaNinja adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified TNJ address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne TNJ adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TrocaNinja address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en TrocaNinja-adresse (f.eks J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TNJ address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en TNJ-adresse (f.eks J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TrocaNinja signature</source>
-        <translation>Indtast TrocaNinja underskrift</translation>
+        <source>Enter TNJ signature</source>
+        <translation>Indtast TNJ underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TrocaNinja version</source>
-        <translation>TrocaNinja version</translation>
+        <source>TNJ version</source>
+        <translation>TNJ version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or trocaninjad</source>
-        <translation>Send kommando til-server eller trocaninjad</translation>
+        <source>Send command to -server or tnjd</source>
+        <translation>Send kommando til-server eller tnjd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: trocaninja.conf)</source>
-        <translation>Angiv konfigurationsfil (default: trocaninja.conf)</translation>
+        <source>Specify configuration file (default: tnj.conf)</source>
+        <translation>Angiv konfigurationsfil (default: tnj.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: trocaninjad.pid)</source>
-        <translation>Angiv pid fil (standard: trocaninjad.pid)</translation>
+        <source>Specify pid file (default: tnjd.pid)</source>
+        <translation>Angiv pid fil (standard: tnjd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TrocaNinja will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil TrocaNinja ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TNJ will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil TNJ ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,24 +2990,24 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=trocaninjarpc
+rpcuser=tnjrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TrocaNinja Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TNJ Alert&quot; admin@foo.com
 </source>
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen: 
 % s 
 Det anbefales at bruge følgende tilfældig adgangskode: 
-rpcuser = trocaninjarpc  
+rpcuser = tnjrpc  
 rpcpassword =% s  
 (du behøver ikke at huske denne adgangskode)  
 Brugernavn og adgangskode må ikke være den samme.  
 Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-læsbar-kun. 
 Det kan også anbefales at sætte alertnotify så du får besked om problemer; 
-for eksempel: alertnotify = echo%% s | mail-s &quot;TrocaNinja Alert&quot; admin@foo.com 
+for eksempel: alertnotify = echo%% s | mail-s &quot;TNJ Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -3132,13 +3132,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;TrocaNinja Alert&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TrocaNinja is probably already running.</source>
-        <translation>Kan ikke få en lås på data mappe% s. TrocaNinja kører sikkert allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  TNJ is probably already running.</source>
+        <translation>Kan ikke få en lås på data mappe% s. TNJ kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>TrocaNinja</source>
-        <translation>TrocaNinja</translation>
+        <source>TNJ</source>
+        <translation>TNJ</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3172,13 +3172,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;TrocaNinja Alert&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TrocaNinja</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af TrocaNinja</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TNJ</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af TNJ</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TrocaNinja to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart TrocaNinja for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart TNJ to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart TNJ for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3247,8 +3247,8 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;TrocaNinja Alert&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TrocaNinja is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. TrocaNinja kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. TNJ is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. TNJ kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-97"/>

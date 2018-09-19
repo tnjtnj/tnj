@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "TrocaNinja"
-            VALUE "FileDescription",    "TrocaNinja-Qt (OSS GUI client for TrocaNinja)"
+            VALUE "CompanyName",        "TNJ"
+            VALUE "FileDescription",    "TNJ-Qt (OSS GUI client for TNJ)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "trocaninja-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2018 The TrocaNinja developers"
+            VALUE "InternalName",       "tnj-qt"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2018 The TNJ developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "trocaninja-qt.exe"
-            VALUE "ProductName",        "TrocaNinja-Qt"
+            VALUE "OriginalFilename",   "tnj-qt.exe"
+            VALUE "ProductName",        "TNJ-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

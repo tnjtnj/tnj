@@ -372,7 +372,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 
             pszGet = "GET / HTTP/1.1\r\n"
                      "Host: checkip.dyndns.org\r\n"
-                     "User-Agent: TrocaNinja\r\n"
+                     "User-Agent: TNJ\r\n"
                      "Connection: close\r\n"
                      "\r\n";
 
@@ -391,7 +391,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 
             pszGet = "GET /simple/ HTTP/1.1\r\n"
                      "Host: www.showmyip.com\r\n"
-                     "User-Agent: TrocaNinja\r\n"
+                     "User-Agent: TNJ\r\n"
                      "Connection: close\r\n"
                      "\r\n";
 
@@ -408,7 +408,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 void ThreadGetMyExternalIP(void* parg)
 {
     // Make this thread recognisable as the external IP detection thread
-    RenameThread("trocaninja-ext-ip");
+    RenameThread("tnj-ext-ip");
 
     CNetAddr addrLocalHost;
     if (GetMyExternalIP(addrLocalHost))
@@ -749,7 +749,7 @@ void SocketSendData(CNode *pnode)
 void ThreadSocketHandler(void* parg)
 {
     // Make this thread recognisable as the networking thread
-    RenameThread("trocaninja-net");
+    RenameThread("tnj-net");
 
     try
     {
@@ -1078,7 +1078,7 @@ void ThreadSocketHandler2(void* parg)
 void ThreadMapPort(void* parg)
 {
     // Make this thread recognisable as the UPnP thread
-    RenameThread("trocaninja-UPnP");
+    RenameThread("tnj-UPnP");
 
     try
     {
@@ -1139,7 +1139,7 @@ void ThreadMapPort2(void* parg)
             }
         }
 
-        string strDesc = "TrocaNinja " + FormatFullVersion();
+        string strDesc = "TNJ " + FormatFullVersion();
 #ifndef UPNPDISCOVER_SUCCESS
         /* miniupnpc 1.5 */
         r = UPNP_AddPortMapping(urls.controlURL, data.first.servicetype,
@@ -1231,12 +1231,17 @@ void MapPort()
 static const char *strDNSSeed[][2] = {
     {"174.138.119.16", "174.138.119.16"},
     {"174.138.116.150", "174.138.116.150"},
+    {"node1.tnjtnj.com", "node1.tnjtnj.com"},
+    {"node2.tnjtnj.com", "node2.tnjtnj.com"},
+    {"node3.tnjtnj.com", "node3.tnjtnj.com"},
+    {"node4.tnjtnj.com", "node4.tnjtnj.com"},
+    {"node5.tnjtnj.com", "node5.tnjtnj.com"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
 {
     // Make this thread recognisable as the DNS seeding thread
-    RenameThread("trocaninja-dnsseed");
+    RenameThread("tnj-dnsseed");
 
     try
     {
@@ -1330,7 +1335,7 @@ void ThreadDumpAddress2(void* parg)
 void ThreadDumpAddress(void* parg)
 {
     // Make this thread recognisable as the address dumping thread
-    RenameThread("trocaninja-adrdump");
+    RenameThread("tnj-adrdump");
 
     try
     {
@@ -1345,7 +1350,7 @@ void ThreadDumpAddress(void* parg)
 void ThreadOpenConnections(void* parg)
 {
     // Make this thread recognisable as the connection opening thread
-    RenameThread("trocaninja-opencon");
+    RenameThread("tnj-opencon");
 
     try
     {
@@ -1526,7 +1531,7 @@ void ThreadOpenConnections2(void* parg)
 void ThreadOpenAddedConnections(void* parg)
 {
     // Make this thread recognisable as the connection opening thread
-    RenameThread("trocaninja-opencon");
+    RenameThread("tnj-opencon");
 
     try
     {
@@ -1657,7 +1662,7 @@ bool OpenNetworkConnection(const CAddress& addrConnect, CSemaphoreGrant *grantOu
 void ThreadMessageHandler(void* parg)
 {
     // Make this thread recognisable as the message handling thread
-    RenameThread("trocaninja-msghand");
+    RenameThread("tnj-msghand");
 
     try
     {
@@ -1823,7 +1828,7 @@ bool BindListenPort(const CService &addrBind, string& strError)
     {
         int nErr = WSAGetLastError();
         if (nErr == WSAEADDRINUSE)
-            strError = strprintf(_("Unable to bind to %s on this computer. TrocaNinja is probably already running."), addrBind.ToString().c_str());
+            strError = strprintf(_("Unable to bind to %s on this computer. TNJ is probably already running."), addrBind.ToString().c_str());
         else
             strError = strprintf(_("Unable to bind to %s on this computer (bind returned error %d, %s)"), addrBind.ToString().c_str(), nErr, strerror(nErr));
         printf("%s\n", strError.c_str());
@@ -1904,7 +1909,7 @@ void static Discover()
 void StartNode(void* parg)
 {
     // Make this thread recognisable as the startup thread
-    RenameThread("trocaninja-start");
+    RenameThread("tnj-start");
 
     if (semOutbound == NULL) {
         // initialize semaphore

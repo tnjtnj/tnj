@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TrocaNinja</source>
-        <translation>О TrocaNinja</translation>
+        <source>About TNJ</source>
+        <translation>О TNJ</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TrocaNinja&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TrocaNinja&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;TNJ&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TNJ&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TrocaNinja developers</source>
+Copyright © 2014 The TNJ developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики TrocaNinja</translation>
+Все права защищены © 2014 Разработчики TNJ</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TrocaNinja addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your TNJ addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TrocaNinja address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом TrocaNinja</translation>
+        <source>Sign a message to prove you own a TNJ address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом TNJ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TrocaNinja address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом TrocaNinja</translation>
+        <source>Verify a message to ensure it was signed with a specified TNJ address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом TNJ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>TrocaNinja will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>TNJ will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TrocaNinja</source>
-        <translation>Показать информацию о TrocaNinja&apos;е</translation>
+        <source>Show information about TNJ</source>
+        <translation>Показать информацию о TNJ&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TrocaNinja address</source>
-        <translation>Отправить монеты на указанный адрес TrocaNinja</translation>
+        <source>Send coins to a TNJ address</source>
+        <translation>Отправить монеты на указанный адрес TNJ</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TrocaNinja</source>
-        <translation>Изменить параметры конфигурации TrocaNinja</translation>
+        <source>Modify configuration options for TNJ</source>
+        <translation>Изменить параметры конфигурации TNJ</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>TrocaNinja</source>
-        <translation>TrocaNinja</translation>
+        <source>TNJ</source>
+        <translation>TNJ</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TrocaNinja</source>
-        <translation>&amp;О TrocaNinja</translation>
+        <source>&amp;About TNJ</source>
+        <translation>&amp;О TNJ</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TrocaNinja client</source>
-        <translation>TrocaNinja клиент</translation>
+        <source>TNJ client</source>
+        <translation>TNJ клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TrocaNinja network</source>
+        <source>%n active connection(s) to TNJ network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -659,8 +659,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TrocaNinja address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом TrocaNinja или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TNJ address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом TNJ или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TrocaNinja can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. TrocaNinja не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. TNJ can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. TNJ не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1039,8 +1039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TrocaNinja address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным TrocaNinja-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TNJ address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным TNJ-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1058,8 +1058,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TrocaNinja-Qt</source>
-        <translation>TrocaNinja-Qt</translation>
+        <source>TNJ-Qt</source>
+        <translation>TNJ-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1131,13 +1131,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TrocaNinja after logging in to the system.</source>
-        <translation>Автоматически запускать TrocaNinja после входа в систему</translation>
+        <source>Automatically start TNJ after logging in to the system.</source>
+        <translation>Автоматически запускать TNJ после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TrocaNinja on system login</source>
-        <translation>&amp;Запускать TrocaNinja при входе в систему</translation>
+        <source>&amp;Start TNJ on system login</source>
+        <translation>&amp;Запускать TNJ при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1156,8 +1156,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TrocaNinja client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для TrocaNinja-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the TNJ client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для TNJ-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TrocaNinja network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети TrocaNinja через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the TNJ network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети TNJ через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1241,8 +1241,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TrocaNinja.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска TrocaNinja.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TNJ.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска TNJ.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1256,8 +1256,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TrocaNinja addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса TrocaNinja в списке транзакций.</translation>
+        <source>Whether to show TNJ addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса TNJ в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1303,8 +1303,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TrocaNinja.</source>
-        <translation>Эта настройка вступит в силу после перезапуска TrocaNinja</translation>
+        <source>This setting will take effect after restarting TNJ.</source>
+        <translation>Эта настройка вступит в силу после перезапуска TNJ</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1322,8 +1322,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TrocaNinja network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью TrocaNinja после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TNJ network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью TNJ после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1538,8 +1538,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TrocaNinja-Qt help message to get a list with possible TrocaNinja command-line options.</source>
-        <translation>Показать помощь по TrocaNinja-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the TNJ-Qt help message to get a list with possible TNJ command-line options.</source>
+        <translation>Показать помощь по TNJ-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1558,13 +1558,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>TrocaNinja - Debug window</source>
-        <translation>TrocaNinja - Окно отладки</translation>
+        <source>TNJ - Debug window</source>
+        <translation>TNJ - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TrocaNinja Core</source>
-        <translation>Ядро TrocaNinja</translation>
+        <source>TNJ Core</source>
+        <translation>Ядро TNJ</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1573,8 +1573,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TrocaNinja debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл TrocaNinja из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the TNJ debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл TNJ из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TrocaNinja RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль TrocaNinja.</translation>
+        <source>Welcome to the TNJ RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль TNJ.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1742,8 +1742,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TrocaNinja address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите TrocaNinja-адрес (например J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TNJ address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите TNJ-адрес (например J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1842,7 +1842,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TrocaNinja address</source>
+        <source>WARNING: Invalid TNJ address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1916,8 +1916,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TrocaNinja address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите TrocaNinja-адрес (например J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TNJ address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите TNJ-адрес (например J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1977,8 +1977,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TrocaNinja address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом TrocaNinja</translation>
+        <source>Sign the message to prove you own this TNJ address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом TNJ</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2009,8 +2009,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TrocaNinja address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом TrocaNinja</translation>
+        <source>Verify the message to ensure it was signed with the specified TNJ address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом TNJ</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2020,8 +2020,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TrocaNinja address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите адрес TrocaNinja (напр. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TNJ address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите адрес TNJ (напр. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TrocaNinja signature</source>
-        <translation>Введите подпись TrocaNinja</translation>
+        <source>Enter TNJ signature</source>
+        <translation>Введите подпись TNJ</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2601,7 +2601,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TrocaNinja version</source>
+        <source>TNJ version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2611,8 +2611,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or trocaninjad</source>
-        <translation>Отправить команду на -server или trocaninjad</translation>
+        <source>Send command to -server or tnjd</source>
+        <translation>Отправить команду на -server или tnjd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2632,13 +2632,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: trocaninja.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: trocaninja.conf)</translation>
+        <source>Specify configuration file (default: tnj.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: tnj.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: trocaninjad.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: trocaninjad.pid)</translation>
+        <source>Specify pid file (default: tnjd.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: tnjd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2787,8 +2787,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TrocaNinja will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, TrocaNinja будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TNJ will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, TNJ будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2977,13 +2977,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=trocaninjarpc
+rpcuser=tnjrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TrocaNinja Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TNJ Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3109,13 +3109,13 @@ for example: alertnotify=echo %%s | mail -s &quot;TrocaNinja Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TrocaNinja is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  TNJ is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>TrocaNinja</source>
-        <translation>TrocaNinja</translation>
+        <source>TNJ</source>
+        <translation>TNJ</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;TrocaNinja Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TrocaNinja</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию TrocaNinja</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TNJ</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию TNJ</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TrocaNinja to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите TrocaNinja для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart TNJ to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите TNJ для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3224,8 +3224,8 @@ for example: alertnotify=echo %%s | mail -s &quot;TrocaNinja Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TrocaNinja is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, TrocaNinja уже работает.</translation>
+        <source>Unable to bind to %s on this computer. TNJ is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, TNJ уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

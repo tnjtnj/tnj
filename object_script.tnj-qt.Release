@@ -79,7 +79,7 @@ INPUT(
 ./build/SerialNumberSignatureOfKnowledge.o
 ./build/SpendMetaData.o
 ./build/ZeroTest.o
-./build/trocaninja-qt_plugin_import.o
+./build/tnj-qt_plugin_import.o
 ./build/qrc_bitcoin.o
 ./build/moc_bitcoingui.o
 ./build/moc_transactiontablemodel.o

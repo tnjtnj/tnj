@@ -1,7 +1,7 @@
 src/*.exe
-src/trocaninja
-src/trocaninjad
-src/test_trocaninja
+src/tnj
+src/tnjd
+src/test_tnj
 src/build.h
 .*.swp
 *.*~*
@@ -10,11 +10,11 @@ src/build.h
 *.orig
 *.o
 *.patch
-.trocaninja
+.tnj
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-trocaninja-qt
+tnj-qt
 #resources cpp
 qrc_*.cpp
 #qt creator

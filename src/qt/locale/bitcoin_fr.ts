@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TrocaNinja</source>
-        <translation>Au sujet de TrocaNinja</translation>
+        <source>About TNJ</source>
+        <translation>Au sujet de TNJ</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TrocaNinja&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;TrocaNinja&lt;/b&gt;</translation>
+        <source>&lt;b&gt;TNJ&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;TNJ&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TrocaNinja developers</source>
+Copyright © 2014 The TNJ developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs TrocaNinja</translation>
+Copyright © 2014 Les développeurs TNJ</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TrocaNinja addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your TNJ addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TrocaNinja address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse TrocaNinja</translation>
+        <source>Sign a message to prove you own a TNJ address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse TNJ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TrocaNinja address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse TrocaNinja spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified TNJ address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse TNJ spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos TrocaNinjas&lt;/b&gt;!</translation>
+        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos TNJs&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>TrocaNinja will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application TrocaNinja va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>TNJ will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application TNJ va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TrocaNinja</source>
-        <translation>Afficher des informations au sujet de TrocaNinja</translation>
+        <source>Show information about TNJ</source>
+        <translation>Afficher des informations au sujet de TNJ</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TrocaNinja address</source>
-        <translation>Envoyer des monnaies vers une adresse TrocaNinja</translation>
+        <source>Send coins to a TNJ address</source>
+        <translation>Envoyer des monnaies vers une adresse TNJ</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TrocaNinja</source>
-        <translation>Modification des options de configuration de TrocaNinja</translation>
+        <source>Modify configuration options for TNJ</source>
+        <translation>Modification des options de configuration de TNJ</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>TrocaNinja</source>
-        <translation>TrocaNinja</translation>
+        <source>TNJ</source>
+        <translation>TNJ</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TrocaNinja</source>
-        <translation>&amp;Au sujet de TrocaNinja</translation>
+        <source>&amp;About TNJ</source>
+        <translation>&amp;Au sujet de TNJ</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TrocaNinja client</source>
-        <translation>Client TrocaNinja</translation>
+        <source>TNJ client</source>
+        <translation>Client TNJ</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TrocaNinja network</source>
-        <translation><numerusform>%n connexion active au réseau TrocaNinja</numerusform><numerusform>%n connexions actives au réseau TrocaNinja</numerusform></translation>
+        <source>%n active connection(s) to TNJ network</source>
+        <translation><numerusform>%n connexion active au réseau TNJ</numerusform><numerusform>%n connexions actives au réseau TNJ</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TrocaNinja address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille TrocaNinja n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TNJ address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille TNJ n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TrocaNinja can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application TrocaNinja ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
+        <source>A fatal error occurred. TNJ can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application TNJ ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TrocaNinja address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse TrocaNinja valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TNJ address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse TNJ valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TrocaNinja-Qt</source>
-        <translation>TrocaNinja-Qt</translation>
+        <source>TNJ-Qt</source>
+        <translation>TNJ-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TrocaNinja after logging in to the system.</source>
-        <translation>Démarrage automatique du client TrocaNinja lors de la connexion au système</translation>
+        <source>Automatically start TNJ after logging in to the system.</source>
+        <translation>Démarrage automatique du client TNJ lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TrocaNinja on system login</source>
-        <translation>&amp;Démarrage du client TrocaNinja à la connexion au système</translation>
+        <source>&amp;Start TNJ on system login</source>
+        <translation>&amp;Démarrage du client TNJ à la connexion au système</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TrocaNinja client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir automatiquemwnr le port client de TrocaNinja sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the TNJ client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir automatiquemwnr le port client de TNJ sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TrocaNinja network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau TrocaNinja à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the TNJ network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau TNJ à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TrocaNinja.</source>
-        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application TrocaNinja</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TNJ.</source>
+        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application TNJ</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TrocaNinja addresses in the transaction list or not.</source>
-        <translation>Afficher les adresses TrocaNinja au sein de la liste de transactions</translation>
+        <source>Whether to show TNJ addresses in the transaction list or not.</source>
+        <translation>Afficher les adresses TNJ au sein de la liste de transactions</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TrocaNinja.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client TrocaNinja</translation>
+        <source>This setting will take effect after restarting TNJ.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client TNJ</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TrocaNinja network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau TrocaNinja mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TNJ network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau TNJ mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TrocaNinja-Qt help message to get a list with possible TrocaNinja command-line options.</source>
-        <translation>Afficher le message d&apos;aide TrocaNinja-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande TrocaNinja</translation>
+        <source>Show the TNJ-Qt help message to get a list with possible TNJ command-line options.</source>
+        <translation>Afficher le message d&apos;aide TNJ-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande TNJ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-104"/>
-        <source>TrocaNinja - Debug window</source>
-        <translation>TrocaNinja - Fenêtre de déboggage</translation>
+        <source>TNJ - Debug window</source>
+        <translation>TNJ - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TrocaNinja Core</source>
-        <translation>TrocaNinja Core</translation>
+        <source>TNJ Core</source>
+        <translation>TNJ Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TrocaNinja debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug TrocaNinja au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the TNJ debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug TNJ au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TrocaNinja RPC console.</source>
-        <translation>Bienvenue sur la console RPC de TrocaNinja.</translation>
+        <source>Welcome to the TNJ RPC console.</source>
+        <translation>Bienvenue sur la console RPC de TNJ.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TrocaNinja address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse TrocaNinja (par ex: J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TNJ address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse TNJ (par ex: J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TrocaNinja address</source>
-        <translation>AVERTISSEMENT: Adresse TrocaNinja Invalide</translation>
+        <source>WARNING: Invalid TNJ address</source>
+        <translation>AVERTISSEMENT: Adresse TNJ Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1867,7 +1867,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMENT: Adresse TrocaNinja Invalide</translation>
+        <translation>AVERTISSEMENT: Adresse TNJ Invalide</translation>
     </message>
 </context>
 <context>
@@ -1930,8 +1930,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TrocaNinja address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse TrocaNinja (par ex: J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TNJ address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse TNJ (par ex: J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1955,7 +1955,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse TrocaNinja (par ex: J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>Entrer une adresse TNJ (par ex: J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1991,8 +1991,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TrocaNinja address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse TrocaNinja</translation>
+        <source>Sign the message to prove you own this TNJ address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse TNJ</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TrocaNinja address</source>
-        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse TrocaNinja spécifiée.</translation>
+        <source>Verify the message to ensure it was signed with the specified TNJ address</source>
+        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse TNJ spécifiée.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TrocaNinja address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse TrocaNinja (par ex: J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TNJ address (e.g. J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse TNJ (par ex: J8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TrocaNinja signature</source>
-        <translation>Entrer une signature TrocaNinja</translation>
+        <source>Enter TNJ signature</source>
+        <translation>Entrer une signature TNJ</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TrocaNinja version</source>
-        <translation>Version TrocaNinja</translation>
+        <source>TNJ version</source>
+        <translation>Version TNJ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or trocaninjad</source>
-        <translation>Envoyer commande à -server ou trocaninjad</translation>
+        <source>Send command to -server or tnjd</source>
+        <translation>Envoyer commande à -server ou tnjd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: trocaninja.conf)</source>
-        <translation>Spécifier le fichier de configuration (par défaut: trocaninja.conf)</translation>
+        <source>Specify configuration file (default: tnj.conf)</source>
+        <translation>Spécifier le fichier de configuration (par défaut: tnj.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: trocaninjad.pid)</source>
-        <translation>Spécifier le fichier pid (par défaut: trocaninjad.pid)</translation>
+        <source>Specify pid file (default: tnjd.pid)</source>
+        <translation>Spécifier le fichier pid (par défaut: tnjd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TrocaNinja will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. TrocaNinja ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TNJ will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. TNJ ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,24 +2990,24 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=trocaninjarpc
+rpcuser=tnjrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TrocaNinja Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TNJ Alert&quot; admin@foo.com
 </source>
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
 Il est recommandé d&apos;utiliser le mot de passe aléatoire suivant:
-rpcuser=trocaninjarpc
+rpcuser=tnjrpc
 rpcpassword=%s
 (il n&apos;est pas nécessaire de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.
 Si le fichier n&apos;existe pas, il est nécessaire de le créer, avec les droit de lecture au propriétaire seulement.
 Il est également recommandé d&apos;utiliser l&apos;option alertnotify afin d&apos;être notifié des problèmes;
-par exemple: alertnotify=echo %%s | mail -s &quot;Alerte TrocaNinja&quot; admin@foo.com
+par exemple: alertnotify=echo %%s | mail -s &quot;Alerte TNJ&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3132,13 +3132,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte TrocaNinja&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TrocaNinja is probably already running.</source>
-        <translation>Echec lors de la tentative de verrou des données du répertoire %s. L&apos;application TrocaNinja est probablement déjà en cours d&apos;exécution</translation>
+        <source>Cannot obtain a lock on data directory %s.  TNJ is probably already running.</source>
+        <translation>Echec lors de la tentative de verrou des données du répertoire %s. L&apos;application TNJ est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>TrocaNinja</source>
-        <translation>TrocaNinja</translation>
+        <source>TNJ</source>
+        <translation>TNJ</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3172,13 +3172,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte TrocaNinja&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TrocaNinja</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application TrocaNinja</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TNJ</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application TNJ</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TrocaNinja to complete</source>
-        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application TrocaNinja</translation>
+        <source>Wallet needed to be rewritten: restart TNJ to complete</source>
+        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application TNJ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3247,8 +3247,8 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte TrocaNinja&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TrocaNinja is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application TrocaNinja est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. TNJ is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application TNJ est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-97"/>
