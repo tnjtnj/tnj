@@ -19,9 +19,9 @@ Exchange and Coin: www.tnjtnj.com
 
 #cd source_code
 
-#wget https://github.com/tnj/tnj/releases/download/v1.0.0.0/tnj-source.tar.gz
+#wget https://github.com/tnjtnj/tnj/archive/rebranding.tar.gz
 
-#tar -xzvf tnj-source.tar.gz
+#tar -xzvf rebranding.tar.gz
 
 #cd src
 
